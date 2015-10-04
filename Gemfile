@@ -45,7 +45,7 @@ group :development do
   gem 'spring'
 end
 
-
+gem 'rollbar', '~> 2.2.1'
 gem 'newrelic_rpm'
 gem 'airbrake'
 gem 'pg'
